@@ -1,0 +1,5 @@
+tarigheye run kardane code:
+roslaunch skeleton_markers markers.launch
+tarigheye didan dar rviz:
+rosrun rviz rviz -d markers.rviz
+
